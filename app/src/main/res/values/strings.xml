@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FragmentsProject</string>
+    <string name="helpResId">
+
+        This is my first Dialog fragment !!!
+        This is my first Dialog fragment !!!
+        This is my first Dialog fragment !!!
+        This is my first Dialog fragment !!!
+        This is my first Dialog fragment !!!
+
+        Hello dialog fragment
+        Hello Android
+
+    </string>
+
+    <string name="anotherText">
+
+        Trying another dialog message
+
+    </string>
+</resources>
